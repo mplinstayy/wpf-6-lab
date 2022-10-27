@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf2710trpo", "Wpf2710trpo.csproj", "{DD94E767-5FBC-4826-9F7A-13629D59ABAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD94E767-5FBC-4826-9F7A-13629D59ABAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD94E767-5FBC-4826-9F7A-13629D59ABAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD94E767-5FBC-4826-9F7A-13629D59ABAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD94E767-5FBC-4826-9F7A-13629D59ABAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E67CBD1-CB38-4FEF-9F7F-67F23969F3F3}
+	EndGlobalSection
+EndGlobal

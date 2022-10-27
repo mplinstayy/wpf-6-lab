@@ -1,0 +1,16 @@
+C:\Users\310-11\Desktop\Wpf2710trpo\bin\Debug\Wpf2710trpo.exe.config
+C:\Users\310-11\Desktop\Wpf2710trpo\bin\Debug\Wpf2710trpo.exe
+C:\Users\310-11\Desktop\Wpf2710trpo\bin\Debug\Wpf2710trpo.pdb
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.csproj.AssemblyReference.cache
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\MainWindow.g.cs
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\App.g.cs
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo_MarkupCompile.cache
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo_MarkupCompile.lref
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\MainWindow.baml
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.g.resources
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.Properties.Resources.resources
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.csproj.GenerateResource.cache
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.csproj.CoreCompileInputs.cache
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.exe
+C:\Users\310-11\Desktop\Wpf2710trpo\obj\Debug\Wpf2710trpo.pdb
